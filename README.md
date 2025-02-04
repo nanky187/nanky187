@@ -1,4 +1,5 @@
-# nanky
+# nanky 
+# (this readme is really outdated)
 
 Fullstack developer.
 
