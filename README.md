@@ -1,4 +1,3 @@
-# Eryk "nanky" Nankiewicz 
-# (this readme is really outdated)
+# Eryk Nankiewicz 
 
 Fullstack, software developer
